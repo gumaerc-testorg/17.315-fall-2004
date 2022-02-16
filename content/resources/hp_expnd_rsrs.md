@@ -2,8 +2,13 @@
 content_type: resource
 description: These lecture notes provide points to note in reviewing US and comparitive
   health status data.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-315-comparative-health-policy-fall-2004/7e13202d92af3ea34cef1cbdcad716d0_hp_expnd_rsrs.pdf
+file: /media/courses/17-315-comparative-health-policy-fall-2004/7e13202d92af3ea34cef1cbdcad716d0_hp_expnd_rsrs.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: hp_expnd_rsrs.pdf
 uid: 7e13202d-92af-3ea3-4cef-1cbdcad716d0

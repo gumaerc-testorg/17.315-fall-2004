@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: These lecture notes outline the key issues in market-based health care.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-315-comparative-health-policy-fall-2004/82bc5f95a54f6a41c49bcd2563f4b4db_hp_mrkt_atrnt.pdf
+file: /media/courses/17-315-comparative-health-policy-fall-2004/82bc5f95a54f6a41c49bcd2563f4b4db_hp_mrkt_atrnt.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: hp_mrkt_atrnt.pdf
 uid: 82bc5f95-a54f-6a41-c49b-cd2563f4b4db
