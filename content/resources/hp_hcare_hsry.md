@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7c35ace0-0691-b5f2-3ddb-b9640a9b240b
 resourcetype: Document
 title: hp_hcare_hsry.pdf
 uid: 69fc655d-a2f2-7994-7a3a-7a4b2beaf988

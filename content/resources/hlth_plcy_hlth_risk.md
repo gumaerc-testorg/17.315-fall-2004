@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7c35ace0-0691-b5f2-3ddb-b9640a9b240b
 resourcetype: Document
 title: hlth_plcy_hlth_risk.pdf
 uid: 18d762b5-85a8-f493-e14d-f6867b587dc5

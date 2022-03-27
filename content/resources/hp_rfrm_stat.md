@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7c35ace0-0691-b5f2-3ddb-b9640a9b240b
 resourcetype: Document
 title: hp_rfrm_stat.pdf
 uid: 3d69ba67-ab3d-2cca-478e-23f764587808

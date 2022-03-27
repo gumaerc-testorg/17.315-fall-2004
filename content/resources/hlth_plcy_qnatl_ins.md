@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7c35ace0-0691-b5f2-3ddb-b9640a9b240b
 resourcetype: Document
 title: hlth_plcy_qnatl_ins.pdf
 uid: 601952d6-499c-b479-ab89-9510675731df
