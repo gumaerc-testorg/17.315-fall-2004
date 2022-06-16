@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -21,7 +22,7 @@ This course examines in comparative prospective the health care policy problems 
 Course Requirements
 -------------------
 
-[Midterm and final examinations]({{< baseurl >}}/pages/exams): The midterm examination tests for background information on the U.S. system. The final examination tests the ability to draw policy lessons from comparative sections and integration of all course material. Students' participation in class is important. Students are also required to attend a weekly discussion section lead by the teaching assistants and scheduled at off class hours.
+{{% resource_link 63d0e1b6-0405-4438-bd59-ec900c4c1a3a "Midterm and final examinations" %}}: The midterm examination tests for background information on the U.S. system. The final examination tests the ability to draw policy lessons from comparative sections and integration of all course material. Students' participation in class is important. Students are also required to attend a weekly discussion section lead by the teaching assistants and scheduled at off class hours.
 
 Grading
 -------

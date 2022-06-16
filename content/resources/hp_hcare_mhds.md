@@ -2,7 +2,7 @@
 content_type: resource
 description: These lecture notes outline the systems, problems, and policies of paying
   for health care.
-file: /media/courses/17-315-comparative-health-policy-fall-2004/03b53c27b7877983279b93405ba890d3_hp_hcare_mhds.pdf
+file: /courses/17-315-comparative-health-policy-fall-2004/03b53c27b7877983279b93405ba890d3_hp_hcare_mhds.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: hp_hcare_mhds.pdf
 uid: 03b53c27-b787-7983-279b-93405ba890d3
 ---
+These lecture notes outline the systems, problems, and policies of paying for health care.
+

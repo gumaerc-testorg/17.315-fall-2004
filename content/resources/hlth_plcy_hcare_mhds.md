@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-315-comparative-health-policy-fall-2004/18e90c16baa4a8fa58478f5ea383575f_hlth_plcy_hcare_mhds.pdf
+file: /courses/17-315-comparative-health-policy-fall-2004/18e90c16baa4a8fa58478f5ea383575f_hlth_plcy_hcare_mhds.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
