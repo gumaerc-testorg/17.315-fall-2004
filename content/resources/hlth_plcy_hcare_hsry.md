@@ -5,6 +5,7 @@ file: /courses/17-315-comparative-health-policy-fall-2004/bb182a4a4070c820fbd464
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hlth_plcy_hcare_hsry.pdf
 uid: bb182a4a-4070-c820-fbd4-6464a7c2659d
 ---
 The policital history that shapes the Amrican Health Care System.
-

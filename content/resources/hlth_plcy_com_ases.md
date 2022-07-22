@@ -6,6 +6,7 @@ file: /courses/17-315-comparative-health-policy-fall-2004/57af996769a49733947f36
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hlth_plcy_com_ases.pdf
 uid: 57af9967-69a4-9733-947f-3623d3b91d53
 ---
 The content in this file compares the health care policy of US with other countries.
-

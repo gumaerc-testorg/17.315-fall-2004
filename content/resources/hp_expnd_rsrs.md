@@ -6,6 +6,7 @@ file: /courses/17-315-comparative-health-policy-fall-2004/7e13202d92af3ea34cef1c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hp_expnd_rsrs.pdf
 uid: 7e13202d-92af-3ea3-4cef-1cbdcad716d0
 ---
 These lecture notes provide points to note in reviewing US and comparitive health status data.
-

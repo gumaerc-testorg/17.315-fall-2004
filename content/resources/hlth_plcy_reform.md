@@ -5,6 +5,7 @@ file: /courses/17-315-comparative-health-policy-fall-2004/34584e4022c54503548c78
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hlth_plcy_reform.pdf
 uid: 34584e40-22c5-4503-548c-78ca2ebcaf51
 ---
 Reforms that are to be used.
-

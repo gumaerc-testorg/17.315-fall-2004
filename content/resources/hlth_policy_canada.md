@@ -5,6 +5,7 @@ file: /courses/17-315-comparative-health-policy-fall-2004/39d3ea7a824179992fccf3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hlth_policy_canada.pdf
 uid: 39d3ea7a-8241-7999-2fcc-f34a9ed57a29
 ---
 The Canadian Health Care System.
-
